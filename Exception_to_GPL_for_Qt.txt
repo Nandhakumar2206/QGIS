@@ -17,6 +17,10 @@ Received: from xanadu.lychnobite.org (mcoletti at localhost)
 	by xanadu.lychnobite.org (8.12.8/8.12.8/Submit) with ESMTP id i5GKnIrt020541;
 	Wed, 16 Jun 2004 16:49:19 -0400
 Message-Id: <200406162049.i5GKnIrt020541 at xanadu.lychnobite.org>
+
+
+
+
 To: sherman at mrcc.com
 Cc: gsherman at mrcc.com
 Subject: Re: Exception to GPL for Windows 
